@@ -2,7 +2,7 @@
   "firstName":"Kieran",
   "lastName":"McWilliams",
   "age":16,
-  "picture": "http://res.cloudinary.com/maxmaxs5/image/upload/v1475338027/IMG_20160714_164540_msbpij.jpg",
+  "picture": "https://res.cloudinary.com/maxmaxs5/image/upload/v1475338027/IMG_20160714_164540_msbpij.jpg",
   "nickNames": [
   {
     "Nick":"Ken",
