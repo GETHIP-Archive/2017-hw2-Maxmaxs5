@@ -4,11 +4,7 @@
   "age":16,
   "picture": "https://github.com/GETHIP-Classroom/2017-hw1-Maxmaxs5/raw/master/IMG_20151010_084523.jpg",
   "nickNames": [
-  {
-    "Nick":"Ken"
-  },
-  {
-    "Nick":"Barbie"
-  }
+    {"Nick": "Ken"},
+    {"Nick": "Barbie"}
   ]
 }
