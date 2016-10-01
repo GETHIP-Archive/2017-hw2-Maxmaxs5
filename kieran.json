@@ -1,10 +1,14 @@
 {
-    "firstName":"Logan",
-    "lastName":"Fitzgibbons",
-    "age":21,
-    "picture": "https://github.com/GETHIP-Classroom/2017-hw1-Maxmaxs5/raw/master/IMG_20151010_084523.jpg",
-    "nickNames": [
-        {"nick": "Fitz"},
-        {"nick": "Big Money"}
-    ]
+  "firstName":"Kieran",
+  "lastName":"McWilliams",
+  "age":16,
+  "picture": "https://github.com/GETHIP-Classroom/2017-hw1-Maxmaxs5/raw/master/IMG_20151010_084523.jpg",
+  "nickNames": [
+  {
+    "Nick":"Ken"
+  },
+  {
+    "Nick":"Barbie"
+  }
+  ]
 }
