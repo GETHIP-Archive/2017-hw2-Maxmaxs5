@@ -4,7 +4,7 @@
   "age":16,
   "picture": "https://res.cloudinary.com/maxmaxs5/image/upload/v1475338027/IMG_20160714_164540_msbpij.jpg",
   "nickNames": [
-    {"Nick": "Ken"},
-    {"Nick": "Barbie"}
+    {"nick": "Ken"},
+    {"nick": "Barbie"}
   ]
 }
