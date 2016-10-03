@@ -1,0 +1,26 @@
+h1{
+  font: 25px, italic, georgia,arial,sans-serif;
+  color: rgb(255,0,150);
+  background-color: grey;
+  border: 2px dotted black;
+  padding: 5px;
+}
+
+img{
+  border: 3px dotted red;
+  padding: 5px;
+}
+
+h2{
+  font: 25px, georgia,arial,sans-serif;
+  color: grey;
+  border: 2px dotted pink;
+  padding: 3px;
+}
+
+ul{
+  color: white;
+  background-color: black;
+  border: 2px dotted pink;
+  padding: 3px;
+}
