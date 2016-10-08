@@ -8,7 +8,7 @@ $(document).ready(function() {
       $("#nicknames").append("<li>" + value.nick + "</li>");
     });
     $.each(data.Schools, function(key, value){
-      $("#schools").append("<li>" + value.nick + "</li>");
+      $("#schools").append("<li>" + value.school + "</li>");
     });
   });
 });

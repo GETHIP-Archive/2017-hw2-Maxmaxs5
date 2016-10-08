@@ -10,9 +10,9 @@
     {"nick": "Kemosabe"}
   ],
   "Schools": [
-    {"nick": "Montessori - Preschool and Elementary"},
-    {"nick": "Ashland Public School - .5 Years"},
-    {"nick": "Homeschool - Elementary and Middle School (Majority of Schooling)"},
-    {"nick": "Cornerstone Christian - Highschool"}
+    {"school": "Montessori - Preschool and Elementary"},
+    {"school": "Ashland Public School - .5 Years"},
+    {"school": "Homeschool - Elementary and Middle School (Majority of Schooling)"},
+    {"school": "Cornerstone Christian - Highschool"}
   ]
 }
