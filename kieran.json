@@ -8,5 +8,11 @@
     {"nick": "Ken"},
     {"nick": "Barbie"},
     {"nick": "Kemosabe"}
+  ],
+  "Schools": [
+    {"nick": "Montessori - Preschool and Elementary"},
+    {"nick": "Homeschool - Most of Life"},
+    {"nick": "Ashland Public School - .5 Years"},
+    {"nick": "Cornerstone Christian - Highschool"}
   ]
 }
