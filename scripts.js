@@ -7,5 +7,8 @@ $(document).ready(function() {
     $.each(data.nickNames, function(key, value){
       $("#nicknames").append("<li>" + value.nick + "</li>");
     });
+    $.each(data.Schools, function(key, value){
+      $("#schools").append("<li>" + value.nick + "</li>");
+    });
   });
 });

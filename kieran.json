@@ -4,9 +4,15 @@
   "age":16,
   "picture": "https://res.cloudinary.com/maxmaxs5/image/upload/v1475338027/IMG_20160714_164540_msbpij.jpg",
   "nickNames": [
-    {"nick": "Karen"}
+    {"nick": "Karen"},
     {"nick": "Ken"},
-    {"nick": "Barbie"}
+    {"nick": "Barbie"},
     {"nick": "Kemosabe"}
+  ],
+  "Schools": [
+    {"nick": "Montessori - Preschool and Elementary"},
+    {"nick": "Ashland Public School - .5 Years"},
+    {"nick": "Homeschool - Elementary and Middle School (Majority of Schooling)"},
+    {"nick": "Cornerstone Christian - Highschool"}
   ]
 }
