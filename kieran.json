@@ -3,6 +3,7 @@
   "lastName":"McWilliams",
   "age":16,
   "picture": "https://res.cloudinary.com/maxmaxs5/image/upload/v1475338027/IMG_20160714_164540_msbpij.jpg",
+  "picture2": "http://res.cloudinary.com/maxmaxs5/image/upload/v1475938740/IMG_20161001_160150494_vntom8.jpg",
   "nickNames": [
     {"nick": "Karen"},
     {"nick": "Ken"},
